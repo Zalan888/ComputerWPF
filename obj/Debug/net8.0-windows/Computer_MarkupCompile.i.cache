@@ -4,17 +4,17 @@
 winexe
 C#
 .cs
-U:\Reggin_KFT\Computer\obj\Debug\net8.0-windows\
+C:\Users\witmannz\Desktop\Computer\obj\Debug\net8.0-windows\
 Computer
 none
 false
 TRACE;DEBUG;NET;NET8_0;NETCOREAPP
-U:\Reggin_KFT\Computer\App.xaml
+C:\Users\witmannz\Desktop\Computer\App.xaml
 11407045341
 
 6823163449
-198-294894759
+201-429728345
 MainWindow.xaml;
 
-False
+True
 

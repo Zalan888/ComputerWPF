@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "U:\\Reggin_KFT\\Computer\\Computer.csproj": {}
+    "C:\\Users\\witmannz\\Desktop\\Computer\\Computer.csproj": {}
   },
   "projects": {
-    "U:\\Reggin_KFT\\Computer\\Computer.csproj": {
+    "C:\\Users\\witmannz\\Desktop\\Computer\\Computer.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "U:\\Reggin_KFT\\Computer\\Computer.csproj",
+        "projectUniqueName": "C:\\Users\\witmannz\\Desktop\\Computer\\Computer.csproj",
         "projectName": "Computer",
-        "projectPath": "U:\\Reggin_KFT\\Computer\\Computer.csproj",
+        "projectPath": "C:\\Users\\witmannz\\Desktop\\Computer\\Computer.csproj",
         "packagesPath": "C:\\Users\\witmannz\\.nuget\\packages\\",
-        "outputPath": "U:\\Reggin_KFT\\Computer\\obj\\",
+        "outputPath": "C:\\Users\\witmannz\\Desktop\\Computer\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\witmannz\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -39,6 +39,12 @@
       "frameworks": {
         "net8.0-windows7.0": {
           "targetAlias": "net8.0-windows",
+          "dependencies": {
+            "MySqlConnector": {
+              "target": "Package",
+              "version": "[2.4.0, )"
+            }
+          },
           "imports": [
             "net461",
             "net462",
